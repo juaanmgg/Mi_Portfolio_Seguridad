@@ -6,12 +6,8 @@
 
 Aquí documento los retos y máquinas que voy resolviendo.
 
-* **Hack The Box:**
-    
-* **OSINT:**
-    
-* **Laboratorios:**
-    
+* **TryHackMe:**
+    * [Máquina "Kenobi"](./kenobi.md) - Explotación de ProFTPD (mod_copy) y escalada SUID (Path Hijacking).
 
 ## Herramientas y Tecnologías
 
