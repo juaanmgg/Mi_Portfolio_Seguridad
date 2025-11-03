@@ -102,7 +102,7 @@ lin@bountyhacker:~$ sudo -l
 
 ```
 User lin may run the following commands on bountyhacker:
-    (ALL) NOPASSWD: /bin/tar
+    (root): /bin/tar
 ```
 
 El usuario `lin` puede ejecutar el binario `/bin/tar` como `root` sin necesidad de contraseña. Esta es una vulnerabilidad de escalada de privilegios conocida y documentada en [GTFOBins](https://gtfobins.github.io/gtfobins/tar/).
