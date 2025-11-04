@@ -9,6 +9,7 @@ Aquí documento los retos y máquinas que voy resolviendo.
 * **TryHackMe:**
     * [Máquina "Kenobi"](./kenobi.md) - Explotación de ProFTPD (mod_copy) y escalada SUID (Path Hijacking).
     * [Máquina "Blue"](./blue.md) - Explotación de EternalBlue (MS17-010) con Metasploit y crackeo de hashes.
+    * [Máquina "Bounty Hacker"](./bounty_hacker.md) - Enumeración FTP, fuerza bruta con Hydra y escalada SUID (Tar).
 
 ## Herramientas y Tecnologías
 
