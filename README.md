@@ -21,4 +21,4 @@ Las herramientas que más utilizo en mis labs:
 
 ## Contacto
 
-* **LinkedIn:** 
+* **LinkedIn:** www.linkedin.com/in/juan-merino-garrido-14415a185
