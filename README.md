@@ -11,6 +11,7 @@ Aquí documento los retos y máquinas que voy resolviendo.
     * [Máquina "Blue"](./blue.md) - Explotación de EternalBlue (MS17-010) con Metasploit y crackeo de hashes.
     * [Máquina "Bounty Hacker"](./bounty_hacker.md) - Enumeración FTP, fuerza bruta con Hydra y escalada SUID (Tar).
     * [Máquina "Basic Pentesting"](./basic_pentesting.md) - Enumeración Web, Pivoteo de Usuarios (jan->kay) y Cracking de Claves SSH.
+    * [Máquina "Ignite"](./ignite.md) - RCE Web (Fuel CMS) + Troubleshooting de Payload (Base64) + Escalada (PwnKit).
 
 ## Herramientas y Tecnologías
 
